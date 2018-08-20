@@ -1,0 +1,3 @@
+com\hadoop\wordcount\WordCountMapper.class
+com\hadoop\wordcount\WordCountReducer.class
+com\hadoop\wordcount\WordCountJobSubmitter.class
